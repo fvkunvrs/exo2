@@ -1,2 +1,12 @@
 On modifie ce fichier pour ensuite l'envoyer vers le dépôt local, puis vers le dépôt distant
+Là je vais fusionner à la main les deux versions
+
+<<<<<<< HEAD
 Je modifie le fichier A
+=======
+J'essaie de le modifier
+Je modifie depuis le terminal, on voit ce que ça donne
+>>>>>>> 1b3e4c5 (Je garde cette modif)
+Je modifie le fichier A
+'essaie de le modifier
+Je modifie depuis le terminal, on voit ce que ça donne
